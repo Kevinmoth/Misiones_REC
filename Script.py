@@ -1,6 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
+
 # Esta es una matriz de adyacencia, y es la forma matemática de representar un grafo
 matriz_adyacencia = [
     [0, 28, 70, 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
